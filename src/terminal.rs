@@ -434,7 +434,7 @@ impl Command for ScrollDown {
 
 /// A command that clears the terminal screen buffer.
 ///
-/// See the [`ClearType`](enum.ClearType.html) enum.
+/// See the [`ClearType`] enum.
 ///
 /// # Notes
 ///
